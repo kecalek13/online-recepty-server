@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kc%)(@42mhyq)c%st@@d@-+=fl#sdhc9-w_*6scm46d0obrc!8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["online-recepty.local"]
+ALLOWED_HOSTS = ["online-recepty.local", "localhost"]
 
 
 # Application definition
